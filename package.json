@@ -1,0 +1,29 @@
+{
+  "name": "ctcs-meanstack-d3",
+  "version": "1.0.0",
+  "description": "MEAN Stack D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshunm/CTCS-MEANStack-D3.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "D3",
+    "Angular2",
+    "Bootstrap"
+  ],
+  "author": "Shunmuga Prabhu Siddharthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshunm/CTCS-MEANStack-D3/issues"
+  },
+  "homepage": "https://github.com/sshunm/CTCS-MEANStack-D3#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
+}
